@@ -1,4 +1,3 @@
-# YOUR CODE GOES HERE
 knife_juggling = 2.10 + 0.77 + 5.00 + 1.00 + 3.00
 torch_juggling = 6.00 + 3.50 + 7.00
 hand_balancing = 2.00 + 1.00
@@ -24,11 +23,3 @@ puts "Please, let's all give " + volunteer_name + " a big round of applause!"
 puts volunteer_name + ", what's your favorite number"
 favorite_number = gets.chomp
 puts "Well, that's perfect because myself and Clem here can juggle these knives for just a hair more than " + favorite_number + " seconds... Let's see how rusty we are, shall we?"
-
-
-
-#total =
-# puts "Knife Juggling:" + knife_juggling
-# puts "Torch Juggling:" + torch_juggling
-# puts "hand_balancing:" + hand_balancing
-# puts "Human Blockhead:" + human_blockhead
